@@ -15,7 +15,7 @@ CSS3 – Estilização e layout responsivo
 
 A proposta é apresentar um portfólio simples, organizado e visualmente agradável, servindo como base para projetos mais robustos no futuro.
 
-__________________________________________________________________________________________________________________________________________________________________________________________
+---
 
 👨‍💻 Sobre Mim
 
@@ -36,7 +36,7 @@ Atualmente estou estudando:
 
 Meu objetivo é evoluir tanto no desenvolvimento web quanto na área de banco de dados, unindo essas habilidades para construir sistemas completos.
 
-__________________________________________________________________________________________________________________________________________________________________________________________
+---
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -46,7 +46,7 @@ ________________________________________________________________________________
 | **CSS3**  | Estilização e layout |
 | **Git/GitHub** | Versionamento e hospedagem |
 
-__________________________________________________________________________________________________________________________________________________________________________________________
+---
 
 📌 Futuras Melhorias
 
@@ -58,7 +58,7 @@ Trabalhar responsividade
 
 Incluir projetos e links reais do meu GitHub
 
-__________________________________________________________________________________________________________________________________________________________________________________________
+---
 
 Se quiser trocar uma ideia ou acompanhar meus estudos:
 

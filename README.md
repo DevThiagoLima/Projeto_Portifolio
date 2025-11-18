@@ -3,7 +3,7 @@
 Bem-vindo ao meu portfólio!
 Este projeto foi desenvolvido para a disciplina Tecnologias para Front-End, do professor Ângelo, durante o meu primeiro período do curso. Ele marca o início da minha jornada no desenvolvimento web e reúne conhecimentos básicos de HTML e CSS.
 
-__________________________________________________________________________________________________________________________________________________________________________________________
+---
 
 🚀 Sobre o Projeto
 

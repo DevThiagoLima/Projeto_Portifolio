@@ -1,11 +1,11 @@
-🌐 #Meu Portfólio
+🌐 Meu Portfólio
 
 Bem-vindo ao meu portfólio!
 Este projeto foi desenvolvido para a disciplina Tecnologias para Front-End, do professor Ângelo, durante o meu primeiro período do curso. Ele marca o início da minha jornada no desenvolvimento web e reúne conhecimentos básicos de HTML e CSS.
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 
-🚀 #Sobre o Projeto
+🚀 Sobre o Projeto
 
 Este repositório contém um pequeno projeto de página web criado com:
 
@@ -17,7 +17,7 @@ A proposta é apresentar um portfólio simples, organizado e visualmente agradá
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 
-👨‍💻 #Sobre Mim
+👨‍💻 Sobre Mim
 
 Olá! Meu nome é Thiago Lima e estou iniciando minha caminhada no mundo da programação.
 Sou apaixonado por tecnologia e estou constantemente buscando aprender novas ferramentas e boas práticas de desenvolvimento.
@@ -48,20 +48,20 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 
-📌 #Futuras Melhorias
+📌 Futuras Melhorias
 
 Adicionar interatividade com JavaScript
 
 Criar uma versão mais completa, com seções adicionais
 
-Trabalhar responsividade mais avançada
+Trabalhar responsividade
 
 Incluir projetos e links reais do meu GitHub
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 
-#Se quiser trocar uma ideia ou acompanhar meus estudos:
+Se quiser trocar uma ideia ou acompanhar meus estudos:
 
-💼 GitHub: (se quiser, me passe o link que adiciono)
+💼 GitHub: https://github.com/DevThiagoLima
 
-📧 Email: (caso queira incluir)
+📧 Email: dev.thiagolima8008@gmail.com
